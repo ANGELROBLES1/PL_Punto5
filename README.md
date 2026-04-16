@@ -1,4 +1,4 @@
-# Parser descendente recursivo con emparejamiento (Punto 5)
+# Parser descendente recursivo  (Punto 5)
 ## Descripción
 
 En este punto se diseñó e implementó un parser descendente recursivo capaz de analizar un lenguaje simple que incluye:
